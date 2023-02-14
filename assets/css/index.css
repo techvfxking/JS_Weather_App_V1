@@ -1,0 +1,22 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: gold;
+  text-align: center;
+}
+h1{
+    font-size: 2.5rem;
+}
+#cityinput {
+  height: 10%;
+  width: 20%;
+  color: goldenrod;
+  font-size: 2rem;
+}
+#btn {
+  background-color: gold;
+  color: black;
+  font-size: 2rem;
+  margin-left: 30px;
+}
